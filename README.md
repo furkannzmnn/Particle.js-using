@@ -5,4 +5,4 @@
 # DAHA DETAYLI KULLANIM İÇİN ORJİNAL WEBSİTESİNE BAKABİLİRSİNİZ
 GitHub adresime [buradan](https://github.com/furkannzmnn) ulaşabilirsiniz.
 
-(https://hizliresim.com/hYXOtQ)
+![Example](https://hizliresim.com/hYXOtQ)
